@@ -32,10 +32,12 @@ After having downloaded the **jQuery-sandbox** repo from GitHub you need to open
 # Part 3 - Learning jQuery
 
 ## Download a new repository to your PC/Mac
-Go and download the following GitHub repository - https://github.com/DevTips/Learn-jQuery-in-15-minuteshis which includes all files you need to practices jQuery in **Part 3**
+Go and download the following GitHub repository - https://github.com/DevTips/Learn-jQuery-in-15-minuteshis which includes all files you need to practices jQuery in **Part 3**.
 
 ## Open index.html in Chrome
-After having downloaded the repository from prevous step, you need to unzip the file. Next move the unzipped folder **Learn-jQuery-in-15-minutes-master** to **htdocs**. Finally open the **lesson-1.html** with Chrome.
+
+
+After having downloaded the repository from the previous step, you need to unzip the file. Next, move the unzipped folder **Learn-jQuery-in-15-minutes-master** to **htdocs**. Finally, open the **lesson-1.html** with Chrome.
 
 ## Open YouTube Channel - Learn jQury in 15 minutes Part 2
 - Now open the video-tutorial https://www.youtube.com/watch?v=OqF0kjNwDSI about jQuery.
