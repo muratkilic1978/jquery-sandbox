@@ -32,7 +32,7 @@ After having downloaded the **jQuery-sandbox** repo from GitHub you need to open
 # Part 3 - Learning jQuery
 
 ## Download a new repository to your PC/Mac
-Go and download the following GitHub repository - https://github.com/DevTips/Learn-jQuery-in-15-minuteshis which includes all files you need to practices jQuery in **Part 3**.
+Go and download the following GitHub repository - https://github.com/DevTips/Learn-jQuery-in-15-minutes which includes all files you need to practices jQuery in **Part 3**.
 
 ## Open index.html in Chrome
 
