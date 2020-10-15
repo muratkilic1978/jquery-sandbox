@@ -24,7 +24,7 @@ This repo includes all files you need to practices jQuery.
 ## Open index.html in Chrome
 After having downloaded the **jQuery-sandbox** repo from GitHub you need to open the **index.html** with Chrome.
 
-## Open YouTube Channel - Learn jQury in 15 minutes Part 1
+## Open YouTube Channel - Learn jQury in 15 minutes
 - Now open the video-tutorial https://www.youtube.com/watch?v=v-RC3kJCL4c about jQuery
 - Try the examples shown in the video in the file named **learn-jquery.js** that are located in the js folder. 
 
@@ -39,7 +39,7 @@ Go and download the following GitHub repository - https://github.com/DevTips/Lea
 
 After having downloaded the repository from the previous step, you need to unzip the file. Next, move the unzipped folder **Learn-jQuery-in-15-minutes-master** to **htdocs**. Finally, open the **lesson-1.html** with Chrome.
 
-## Open YouTube Channel - Learn jQury in 15 minutes Part 2
+## Open YouTube Channel - Learn jQury in 15 minutes
 - Now open the video-tutorial https://www.youtube.com/watch?v=OqF0kjNwDSI about jQuery.
 - Try the examples shown in the video in the file named **learn-jquery.js**. 
 
