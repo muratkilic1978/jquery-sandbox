@@ -25,21 +25,21 @@ This repo includes all files you need to practices jQuery.
 After having downloaded the **jQuery-sandbox** repo from GitHub you need to open the **index.html** with Chrome.
 
 ## Open YouTube Channel - Learn jQury in 15 minutes Part 1
-- Now open the website https://www.youtube.com/watch?v=v-RC3kJCL4c with the video about jQuery
+- Now open the video-tutorial https://www.youtube.com/watch?v=v-RC3kJCL4c about jQuery
 - Try the examples shown in the video in the file named **learn-jquery.js** that are located in the js folder. 
 
 
 # Part 3 - Learning jQuery
 
-## Download this repository to your PC/Mac
-This repo includes all files you need to practices jQuery
+## Download a new repository to your PC/Mac
+Go and download the following GitHub repository - https://github.com/DevTips/Learn-jQuery-in-15-minuteshis which includes all files you need to practices jQuery in **Part 3**
 
 ## Open index.html in Chrome
-After having downloaded the **jQuery-sandbox** repo from GitHub you need to open the **index.html** with Chrome.
+After having downloaded the repository from prevous step, you need to unzip the file. Next move the unzipped folder **Learn-jQuery-in-15-minutes-master** to **htdocs**. Finally open the **lesson-1.html** with Chrome.
 
 ## Open YouTube Channel - Learn jQury in 15 minutes Part 2
-- Now open the website https://www.youtube.com/watch?v=OqF0kjNwDSI with the video about jQuery.
-- Try the examples shown in the video in the file named **learn-jquery.js** that are located in the js folder. 
+- Now open the video-tutorial https://www.youtube.com/watch?v=OqF0kjNwDSI about jQuery.
+- Try the examples shown in the video in the file named **learn-jquery.js**. 
 
 
 # Part 4 - Learning jQuery
